@@ -1,1 +1,2 @@
-# -class-24--pirate-invasion
+# PiratesInvasion
+pirates invasion game
